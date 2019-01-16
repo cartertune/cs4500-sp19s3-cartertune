@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jan 16 14:35:57 EST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0168-5829-bd67-000018d55e28 
+on database directory memory:/Users/cartertune/projects/cs4500-sp19s1-cartertune/testdb with class loader org.springframework.boot.loader.LaunchedURLClassLoader@238e0d81 
+Loaded from jar:file:/Users/cartertune/projects/cs4500-sp19s1-cartertune/target/cs4500-sp19s1-cartertune-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/derby-10.14.2.0.jar!/
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=/Users/cartertune/projects/cs4500-sp19s1-cartertune
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
