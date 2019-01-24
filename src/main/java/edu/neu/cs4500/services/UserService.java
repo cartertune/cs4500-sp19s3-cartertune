@@ -1,6 +1,6 @@
 package edu.neu.cs4500.services;
 
-import org.apache.catalina.User;
+import edu.neu.cs4500.models.User;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
